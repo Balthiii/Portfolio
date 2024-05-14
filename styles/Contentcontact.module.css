@@ -1,0 +1,37 @@
+.container {
+  color: black;
+}
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.inputText, .inputEmail, .textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #ecece3;
+}
+
+.submitButton {
+  padding: 10px 20px;
+  background-color: #26c52b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

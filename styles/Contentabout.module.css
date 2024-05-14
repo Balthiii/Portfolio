@@ -1,0 +1,50 @@
+.container  {
+    background-color: rgb(97, 179, 242);
+}
+
+.container2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.title2 {
+    font-size: 3em;
+    color: #000000;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold ;
+}
+.title {
+    font-size: 3em;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 100px;   
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+
+  .text {
+    font-size: 1em;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text2 {
+    font-size: 1em;
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
